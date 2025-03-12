@@ -1,5 +1,5 @@
 # local-support-helper
-Provided a structured json file, the LLM will help generate potential steps for solving a problem
+Provided a structured json file, the LLM will help generate potential steps for solving a problem (WIP)
 
 ![image](https://github.com/user-attachments/assets/ec131a20-dabd-4f39-a1b3-d4dbd6b4a0e5)
 
