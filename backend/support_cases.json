@@ -1,0 +1,14 @@
+[
+  {
+    "issue": "App crashes on login",
+    "steps_taken": "Checked logs, found null pointer error, restarted server",
+    "solution": "Updated authentication service",
+    "resolved": "Yes"
+  },
+  {
+    "issue": "Page loads slowly",
+    "steps_taken": "Checked database queries, found inefficient indexing",
+    "solution": "Optimized queries and added caching",
+    "resolved": "Yes"
+  }
+]
